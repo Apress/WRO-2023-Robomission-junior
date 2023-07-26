@@ -1,9 +1,9 @@
 # Apress Supplementary Material
 
-This repository accompanies [*World Robot Olympiad (WRO) 2023 Robomission Junior Tutorials*](https://link.springer.com/book/10.1007/%isbn%) by Vishnu Agarwal (Apress, 2023).
+This repository accompanies [*World Robot Olympiad (WRO) 2023 Robomission Junior Tutorials*](https://link.springer.com/book/10.1007/978-1-4842-9706-3) by Vishnu Agarwal (Apress, 2023).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](978-1-4842-9706-3.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
